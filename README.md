@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Welcome to Alketbih Lab
 
-<!--
-**alketbih-Lab/alketbih-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building ideas into reality.
 
-Here are some ideas to get you started:
+Hello! I'm Alyazia Alketbi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my digital workshop, where I document everything I build, learn, and create.
+
+---
+
+## 🛠 What you'll find here
+
+- 🖨️ 3D Printing Projects
+- ⚡ Arduino & Electronics
+- 🎨 Laser & Cameo Designs
+- 💻 Programming
+- 📚 Learning Notes
+- 📝 Blog Articles
+
+---
+
+## 🚀 Current Mission
+
+Learning, building, documenting, and sharing every project along the way.
+
+---
+
+## 🌱 Currently Learning
+
+- Arduino Programming
+- 3D Design
+- Web Development
+- Electronics
+
+---
+
+## 📫 Connect
+
+More projects coming soon...
